@@ -1,5 +1,5 @@
 # Stefan's OS
-A Java-based, AI-enabled guest OS
+A Java-based, AI-enabled guest OS.
 
 Works on Windows, Mac OS and Linux.
 
